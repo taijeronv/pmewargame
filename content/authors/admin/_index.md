@@ -45,6 +45,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The PME wargame is designed specifically for the classroom setting.  It is more of a game than a simulation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi my name is TJ and the PME Wargame is a passion project of mine.  Ever since I managed the Simulation Center at West Point I've wanted to continue developing a game where Follow Me left off.  Follow Me is the game that Jim Lunsford and I collaborated on.  I provided the requirements and he did the coding.
+
+The PME Wargame is meant to be useful, simple to play, and innovative in its delivery.  My vision is to see the PME Wargame delivered over the net and played inside the web browser.  I believe this makes the game more accessible and it allows me as the developer to keep it updated without the hassle of patching locally.  A full package of content will be provided to support professional military education (PME) levels 1 thru 4.  Customization based on user needs will be one of the centerpieces of the system.
