@@ -18,13 +18,13 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fab"
   name = "Philosophy"
-  description = """ Reasonable results, wrapped in an easy to play format.  This is the underlying philosophy of PME-W.  What good is a game that is too hard to play or does not deliver reasonable """
+  description = """ Reasonable results, wrapped in an easy to play format.  This is the underlying philosophy of NGW.  What good is a game that is too hard to play or does not deliver believable effects? """
   
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
   name = "Design"
-  description = """PME-W is designed specifically to be a tool for learning.  It is not an exercise driver.  Too often developers think they can combine the two.  An exercise driver would possess more simulation elements.  PME-W is meant to be simple to play but still provide realistic outcomes.  In this case close enough is good enough.  We do not need the accuracy like a simulation.  We need reasonable results wrapped in an easy to play format. """  
+  description = """NGW is designed specifically to be a tool for learning.  It is not an exercise driver nor is it a planning tool.  Too often developers think they can combine the two.  NGW is meant to be simple to play but still provide realistic outcomes.  In this case close enough is good enough.  We do not need the accuracy like a simulation.  We need reasonable results wrapped in an easy to play format. """  
   
 [[feature]]
   icon = "code"
@@ -35,8 +35,8 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Doctrine Matters"
-  description = "I have a unique combination of skills."
+  name = "Maps"
+  description = """ No hexes.  NGW is played on a military topographic map or a sever based map like Google Maps.  Hexes have been a mainstay of board and computer gaming for a long time. """
 
   [[feature]]
   icon = "pencil-ruler"

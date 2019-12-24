@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Wargame useful in training and education
+# role: Wargame useful in training and education
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -49,4 +49,9 @@ The PME wargame is designed specifically for the classroom setting.  It is more 
 
 Hi my name is TJ and the PME Wargame is a passion project of mine.  Ever since I managed the Simulation Center at West Point I've wanted to continue developing a game where Follow Me left off.  Follow Me is the game that Jim Lunsford and I collaborated on.  I provided the requirements and he did the coding.
 
-The PME Wargame is meant to be useful, simple to play, and innovative in its delivery.  My vision is to see the PME Wargame delivered over the net and played inside the web browser.  I believe this makes the game more accessible and it allows me as the developer to keep it updated without the hassle of patching locally.  A full package of content will be provided to support professional military education (PME) levels 1 thru 4.  Customization based on user needs will be one of the centerpieces of the system.
+The PME Wargame is meant to be useful, simple to play, and innovative in its delivery.  My vision is to see the PME Wargame delivered over the net playable inside a web browser.  
+
+Whether you're a seasoned professional or brand new cadet the NGW should be robust enough to meet your needs as a quality tool to practice tactical decision-making and problem-solving.
+
+I want the NxtGen Wargame to be the first thing military professionals think of when it comes to improving tactical decision-making.
+
