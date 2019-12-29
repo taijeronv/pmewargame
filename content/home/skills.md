@@ -15,7 +15,6 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-<<<<<<< HEAD
   icon = "graduation-cap"
   icon_pack = "fab"
   name = "Philosophy"
@@ -32,24 +31,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Content"
   description = """Content is 100% customizable by the end user.  Scenarios are what is presented to the player, images representing the map and units.   """
-=======
-  icon = "drafting-compass"
-  icon_pack = "fas"
-  name = "Design"
-  description = "90%"
-  
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Development"
-  description = "100%"  
-  
-[[feature]]
-  icon = "photo-video"
-  icon_pack = "fas"
-  name = "Content"
-  description = "10%"
->>>>>>> pmedesktop
 
 [[feature]]
   icon = "code"
