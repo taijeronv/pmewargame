@@ -45,45 +45,30 @@ user_groups:
 - Visitors
 ---
 
-The PME wargame is designed specifically for the classroom setting.  It is more of a game than a simulation.
+The NestGen Wargame or NGW is designed to be easy to play, portable, and playable in a web browser. 
 
-Hi my name is TJ and the PME Wargame is a passion project of mine.  Ever since I managed the Simulation Center at West Point I've wanted to continue developing a game where Follow Me left off.  Follow Me is the game that Jim Lunsford and I collaborated on.  I provided the requirements and he did the coding.
+NGW is more of a game than a simulation.  Why do I consider it so? Because it will be easy to play and understand.
 
-The PME Wargame is meant to be useful, simple to play, and innovative in its delivery.  My vision is to see the PME Wargame delivered over the net playable inside a web browser.  
+If you have any experience with Army simulations like [JCATS](https://csl.llnl.gov/jcats) or [WARSIM](https://www.defensedaily.com/lockheed-martins-warsim-debuts-in-division-exercise-2/uncategorized/) you know what I mean by **"easy to play and understand."**
 
-Whether you're a seasoned professional or brand new cadet the NGW should be robust enough to meet your needs as a quality tool to practice tactical decision-making and problem-solving.
+# What is the difference between a game and simulation?
+Take a look at these two article for some light-reading on the difference between games and sims.  
+[Games vs Simulations: Choosing the Right Approach for Learning](http://www.theknowledgeguru.com/games-vs-simulations-choosing-right-approach/)  
+[Sims vs. Games: The Difference Defined](https://www.edutopia.org/sims-vs-games)
 
-I want the NxtGen Wargame to be the first thing military professionals think of when it comes to improving tactical decision-making.
+For a more academic read take a look at this one:  
+[Distinguishing between games and simulations: A systematic review](https://pdfs.semanticscholar.org/a9af/13efe8f58fbde49423534f86fffffb8f16e1.pdf)
 
-# Philosophy
-The NextGen Wargame (NGW) is based on my time at West Point observing cadets
-play "Follow Me" and "Virtual Battlespace."
+# The NextGen Wargame is NOT an Exercise Driver!
+NGW is not designed to drive an exercise, nor would anyone want to make it do so.
 
-But it wasn't just the cadets I observed it was also the instructors and senior leadership
-in my department.
+An exercise driver is a program that is used to for outputs. Rather than have a
+white-cell provide outputs a simulation is used. The outputs from the sim are
+fed to a staff group. The staff groups uses those outputs for the next planning
+cycle. This is what we mean by "driver" it fuels the staff process with outputs
+they can use to conduct planning.
 
-I learned a few things:
-- The most important part of the equation besides the game itself, is the
-  instructors. You absolutely need an instructor in the loop, the game is simply
-  a tool it does not teach the student anything.
-- You WILL need an expert on the game on hand to do some hand holding when
-  necessary. Whether it's developing content or teaching the faculty how to use
-  the game you will need someone who inspires confidence in the program and
-  has the technical ability in all aspects of the game.
-- Support from senior leadership is important, this goes without saying.
-- Senior leadership is willing to listen to the "right" experts. I put "right"
-  in quotes because more often than not the so-called-expert whispering in the
-  ear of the senior leadership isn't really an expert.
-- If the game is too hard to play then it has no place in the classroom. Time is
-  precious and the game is NOT why students are there. They are there to learn,
-  not to learn to play the game.
-- The game needs to "look" right. For example the map should look like an actual
-  military topo map, not a map overlaid with a hex grid.
+On the other hand NGW has a narrower focus and lacks some of the detail you may want in an excercise driver.  
 
-Here are some characteristics:
-- Easy to play
-- Easy to explain
-- Customizable content that doesn't require specialized skills
-- Designed by gamers with military experience, that have taught in the
-  classroom, and have used a game as part of the curriculum (this is a rare
-  breed)
+>For example NGW will not be designed with a detailed logistics model.
+
