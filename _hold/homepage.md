@@ -61,23 +61,54 @@ For a more academic read take a look at this one:
 
 NGW has elements of both.
 
-## So, what's NGW again?
-NGW is a complete system that consists of a wargame model, specific content, and the way it is delivered.
+## The NextGen Wargame is NOT an Exercise Driver!
+The exercise driver is used as the "execution" component in a staff exercise.
+Typically staff exercises are more about staff processes and planning, and not
+execution. But to make a plan you need some kind of inputs or outcomes
+to use in the process. This is what the exercise driver or simulation provides.
 
-### Wargame Model
-- Easy to learn.
-- Easy to understand.
-- Enough detail but not over-engineered.
+In most cases the staff never sees the game, it stays behind the "curtain."  
+Exercise control runs the game or simulation many "turns" as necessary to get to
+a point that satisfies some learning outcome. 
 
-### Specific Content
-- Format of the lessons
-- Format of the vignettes
+For example the instructor's may want the students to do a river crossing or
+breach so the game is run until they get to that point. Students are given the
+"outputs" from the simulation and use them for the next planning cycle. Rinse
+and repeat til the exercise is complete.
 
-### Delivery
-- NGW is delivered over the internet on a Local Area Network.
-- It can be played in a web browser.
-- It can run on any operating system.
+Exercise driver is not a suitable use case for NGW because it lacks a detailed
+model which is somewhat of a requirement. While NGW will model many of the war
+fighting functions it is done in a more abstract way.
 
+## How does NGW work?
+NGW is meant to support learning in the classroom. 
+
+In most learning institutions paper based Tactical Decision Exercises/Games
+(TDE/TDG) are used as a the main way to engage the students. A basic TDE consists of a scenario/vignette
+and a map. 
+
+The student creates a course of action using the information given in the
+scenario and turns it into a "graphics" COA on the map. This is how we did it
+at West Point. NGW can be used in the same way but instead of just planning, the
+student gets to execute their COA.
+
+## Why is executing the operation so important?
+Results.
+
+What happened during the operation.  Did you account for the enemy on hill 706? How effective was your mortar fire and was it on the right target?.  Your platoon was delayed due to enemy fire was it because of their route? Was there a better route option?
+
+NGW allows you to execute the mission and play it back.  Imagine watching a sports replay on TV, that's the kind of play-back I'm talking about.  Now, watching the replay you can answer all those questions, on your own.  Can you imagine the kind of learning that takes place by simply analyzing the replay?
+
+- What went right/wrong and WHY.
+- What adjustments do you need to make to be successful? Explain the impact of those adjustments.
+- Did the scenario provide enough information to make good decisions? If not
+  then what additional information do you need?
+- Is the extra information you need obtainable by you or does HQ need to
+  provide this information?
+- How would you submit those RFIs to your HQ?
 
 ## What does a vignette look like?
 I'll do you one better.  Instead of explaining to you take a look at [Mastering Tactics by Major John F. Schmitt, USMCR](https://mca-marines.org/wp-content/uploads/Mastering-Tactics.pdf?fbclid=IwAR3AdL0ytebQyvmXptlXfoQP7IxYWa6JUhsX96TnYmljvA59AJ6qduKnoVI).
+
+
+
