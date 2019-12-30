@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "The Professional Military Education Wargame"
-subtitle = "The most useful wargame in military education today"
+subtitle = "The most useful wargame in military education today."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,9 +49,6 @@ subtitle = "The most useful wargame in military education today"
  # CSS class.
  css_class = ""
 +++
-
-The PME Wargame is designed by a gamer who actually has used games for training.
-
 Born from years of frustration with the current choice of games.
 
-The PME Wargame was designed to be usful and relevant.
+The NextGen Wargame is designed to be exciting, interesting, and easy to play.

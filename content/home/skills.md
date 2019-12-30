@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Design and Development"
+title = "Why you should use NGW"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,44 +15,32 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "graduation-cap"
-  icon_pack = "fab"
-  name = "Philosophy"
-  description = """ Reasonable results, packaged in an easy to play format.  This is the underlying philosophy of NGW.  """
+  icon = "photo-video"
+  icon_pack = "fas"
+  name = "Visualization"
+  description = """A picture is worth a thousand words or so the saying goes. The ability to see your plan come to life is invaluable.  It adds a dimension that you cannot get with a paper-based TDE.  For visual learners it adds even more."""
   
 [[feature]]
-  icon = "pencil-ruler"
+  icon = "comment-dots"
   icon_pack = "fas"
-  name = "Design"
-  description = """NGW is designed specifically to be a tool for learning.  It is not an exercise driver nor is it a planning tool.  NGW is meant to be simple to play but still provide realistic outcomes.  In this case close enough is good enough.  We do not need the same level of accuracy as a simulation.  """  
+  name = "Feedback"
+  description = """What impact did adding a machinegun to 2nd squad have on the operation? Why did the enemy have an advantage on that hill?.  Feedback regarding the decision you make is arguably the best reason to use a game in the classroom."""  
   
 [[feature]]
-  icon = "code"
+  icon = "flask"
   icon_pack = "fas"
-  name = "Content"
-  description = """Content is 100% customizable by the end user.  Scenarios are what is presented to the player, images representing the map and units.   """
-
-[[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = "Maps"
-  description = """ No hexes.  NGW is played on a military topographic map or a sever based map like Google Maps. """
+  name = "Experimentation"
+  description = """Imagine the kind of learning that takes place when the student is able to compare different courses of action or try different tactics."""
 
   [[feature]]
-  icon = "pencil-ruler"
+  icon = "cloud-sun-rain"
   icon_pack = "fas"
-  name = "Depth"
-  description = "Sepcifically designed to be a learning tool with all of the right features. "  
+  name = "Operational Environment"
+  description = """How do you experience the enemy, weather, or terrain in a paper-based TDE? You can't, but in a properly designed game you can."""  
   
-[[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = "Development"
-  description = "Continuous development personnaly funded by me."
-
   [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Simple Model"
-  description = "NGW is a game thus the modeling does not need to meet a high degree of fidelity like a simulation."
+  description = "NGW is a lightweight simulation.  It is narrowly focused and does not try to do too much."
 +++
