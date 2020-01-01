@@ -76,8 +76,8 @@ subtitle = ""
   [[feature]]
   icon = "question-circle"
   icon_pack = "fas"
-  name = "Specific Content"
-  description = """ """  
+  name = "Tactical Decision"
+  description = """Put the student making appropriate level decisions."""  
   
   [[feature]]
   icon = "question-circle"

@@ -45,9 +45,11 @@ user_groups:
 - Visitors
 ---
 
-The NestGen Wargame or NGW is designed to be easy to play, portable, and playable in a web browser. 
+The NextGen Wargame or NGW is a complete package that is narrowly focused to
+provide an educational experience.
 
-NGW is more of a game than a simulation.  Why do I consider it so? Because it will be easy to play and understand.
+NGW is narrowly focused on providing an educational experience. The interface is
+easy and intuitive. The model is simple to understand.  
 
 If you have any experience with Army simulations like [JCATS](https://csl.llnl.gov/jcats) or [WARSIM](https://www.defensedaily.com/lockheed-martins-warsim-debuts-in-division-exercise-2/uncategorized/) you know what I mean by **"easy to play and understand."**
 
@@ -61,23 +63,6 @@ For a more academic read take a look at this one:
 
 NGW has elements of both.
 
-## So, what's NGW again?
-NGW is a complete system that consists of a wargame model, specific content, and the way it is delivered.
+## Vignettes
+To get an idea of what NGW is designed for take a look at [Mastering Tactics by Major John F. Schmitt, USMCR](https://mca-marines.org/wp-content/uploads/Mastering-Tactics.pdf?fbclid=IwAR3AdL0ytebQyvmXptlXfoQP7IxYWa6JUhsX96TnYmljvA59AJ6qduKnoVI).  
 
-### Wargame Model
-- Easy to learn.
-- Easy to understand.
-- Enough detail but not over-engineered.
-
-### Specific Content
-- Format of the lessons
-- Format of the vignettes
-
-### Delivery
-- NGW is delivered over the internet on a Local Area Network.
-- It can be played in a web browser.
-- It can run on any operating system.
-
-
-## What does a vignette look like?
-I'll do you one better.  Instead of explaining to you take a look at [Mastering Tactics by Major John F. Schmitt, USMCR](https://mca-marines.org/wp-content/uploads/Mastering-Tactics.pdf?fbclid=IwAR3AdL0ytebQyvmXptlXfoQP7IxYWa6JUhsX96TnYmljvA59AJ6qduKnoVI).
