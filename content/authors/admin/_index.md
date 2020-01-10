@@ -43,18 +43,21 @@ email: "taijeronv@gmail.com"
 user_groups:
 - Researchers
 - Visitors
+
 ---
+<a href="slides/ngw_concept">Concept Slides</a>
 
-The NextGen Wargame or NGW is a complete package that is narrowly focused to
-provide an educational experience.
+The NextGen Wargame is a computer game that is designed to be a learning tool for tactics.  Its purpose is to provide the student an operational enviroment where they can execute their plans. 
 
-NGW is narrowly focused on providing an educational experience. The interface is
-easy and intuitive. The model is simple to understand.  
+- The right level of detail, easy to play and understand.
+- Playable in a web browser, the operating system does not matter.
+- Specifically designed as an education tool, NOT an exercise driver.
+- It is NOT a first-person-shooter nor is it a 3d virtual reality game.
 
 If you have any experience with Army simulations like [JCATS](https://csl.llnl.gov/jcats) or [WARSIM](https://www.defensedaily.com/lockheed-martins-warsim-debuts-in-division-exercise-2/uncategorized/) you know what I mean by **"easy to play and understand."**
 
 ## Is it a game or simulation?
-Take a look at these two article for some light-reading on the difference between games and sims.  
+Take a look at these two articles for some light-reading on the difference between games and sims.  
 [Games vs Simulations: Choosing the Right Approach for Learning](http://www.theknowledgeguru.com/games-vs-simulations-choosing-right-approach/)  
 [Sims vs. Games: The Difference Defined](https://www.edutopia.org/sims-vs-games)
 
