@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "The Professional Military Education Wargame"
-subtitle = "The most useful wargame in military education today."
+title = "The NextGen Wargame"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,6 +49,4 @@ subtitle = "The most useful wargame in military education today."
  # CSS class.
  css_class = ""
 +++
-Born from years of frustration with the current choice of games.
-
-The NextGen Wargame is designed to be exciting, interesting, and easy to play.
+Because learning how to think is important than learning what to think.

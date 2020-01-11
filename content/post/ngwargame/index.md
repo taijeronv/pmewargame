@@ -10,7 +10,7 @@ categories: ["wargames", "games"]
 date: 2020-01-02T06:36:02+02:00
 lastmod: 2020-01-02T06:36:02+02:00
 featured: true
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The NextGen Wargame is a computer game meant to be a learning tool for tactics.  Its purpose is to provide the student an operational enviroment where they can execute their plans. 
+The NextGen Wargame is a computer game that provides the student with an operational enviroment where they can execute their plans. 
 
 - The right level of detail, easy to play and understand.
 - Playable in a web browser, the operating system does not matter.
@@ -58,7 +58,7 @@ Computer wargames have an advantage because the "umpire" is built in and can mak
 - The ability to practice making tactical decisions and solving problems at the appropriate command level.
 - Experimentation. Imagine the learning that takes place when a student has the opportunity to compare and contrast different courses of action or tactics.
 - Critical Analysis. Ability to watch a "replay" of the operation then analyze it step-by-step. What went wrong or right, and why? 
-What could be done differently, and why? The "WHY" is arguably the most essential part of learning to think.
+What could be done differently and why? The "WHY" is arguably the most essential part of learning to think.
 - Meant to develop one's tactical IQ.
 
 For additional information please read my <a href="post/ngw_concept">concept</a>.

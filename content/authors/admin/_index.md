@@ -45,27 +45,22 @@ user_groups:
 - Visitors
 
 ---
-<a href="slides/ngw_concept">Concept Slides</a>
-
-The NextGen Wargame is a computer game that is designed to be a learning tool for tactics.  Its purpose is to provide the student an operational enviroment where they can execute their plans. 
+The NextGen Wargame is a computer game that provides the student with an operational environment where the enemy, terrain, and weather have an effect.  It enables the student to practice making decisions in a tactical environment.
 
 - The right level of detail, easy to play and understand.
 - Playable in a web browser, the operating system does not matter.
 - Specifically designed as an education tool, NOT an exercise driver.
-- It is NOT a first-person-shooter nor is it a 3d virtual reality game.
+- It is NOT a first-person-shooter, nor is it a 3d virtual reality game.
 
-If you have any experience with Army simulations like [JCATS](https://csl.llnl.gov/jcats) or [WARSIM](https://www.defensedaily.com/lockheed-martins-warsim-debuts-in-division-exercise-2/uncategorized/) you know what I mean by **"easy to play and understand."**
+The paper-based Tactical Decision Game (TDG) is one of the tools used by institutions like [West Point](https://www.westpoint.edu/) or [ROTC](https://www.todaysmilitary.com/education-training/rotc-programs) to teach tactics.  
 
-## Is it a game or simulation?
-Take a look at these two articles for some light-reading on the difference between games and sims.  
-[Games vs Simulations: Choosing the Right Approach for Learning](http://www.theknowledgeguru.com/games-vs-simulations-choosing-right-approach/)  
-[Sims vs. Games: The Difference Defined](https://www.edutopia.org/sims-vs-games)
+One of the problems with paper TDGs is that the cadet doesn't get the opportunity to execute their plan.
 
-For a more academic read take a look at this one:  
-[Distinguishing between games and simulations: A systematic review](https://pdfs.semanticscholar.org/a9af/13efe8f58fbde49423534f86fffffb8f16e1.pdf)
+Why? Not enough time. The cadets plan the operation but never get to execute it because there's not enough time.  Execution is essential because this is where the student gets to make decisions and solve problems.
 
-NGW has elements of both.
+NGW isn't meant to replace the TDG. It is intended to bring it to life by providing the student an opportunity to execute their plan in an operational environment.  Computer wargames are fast and easy to set up (if appropriately designed), which makes NGW the perfect complement to paper TDGs.
 
-## Vignettes
-To get an idea of what NGW is designed for take a look at [Mastering Tactics by Major John F. Schmitt, USMCR](https://mca-marines.org/wp-content/uploads/Mastering-Tactics.pdf?fbclid=IwAR3AdL0ytebQyvmXptlXfoQP7IxYWa6JUhsX96TnYmljvA59AJ6qduKnoVI).  
+<a href="post/ngw_concept">NGW Concept</a>
 
+
+## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
