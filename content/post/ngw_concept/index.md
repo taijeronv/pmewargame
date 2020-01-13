@@ -61,8 +61,9 @@ The game or subscription can be customized based customer needs.  For example if
 more advanced content. The LAN setup is meant for organizations that do not want to deal with the internet.
 
 ## Technology, and Scope (brief) PC or mobile?
-- Meant to be played inside a web browser.
-- Delivered over the internet or LAN, operating system does not matter
+- Playable inside a web browser.
+- Delivered over the internet or LAN.
+- Operating system does not matter.
 - Javascript using the [Phaser game library](https://phaser.io/).
 - Frontend web technologies.
 
@@ -70,9 +71,11 @@ more advanced content. The LAN setup is meant for organizations that do not want
 The player begins by choosing a scenario. The scenario contains information regarding the operation such as the mission, friendly troops available, map,
 objectives, and intel reports. The scenario file contains data used by the game engine for various functions and calculations.
 
-The player plays the game by giving orders to their units like move, attack, defend. Orders are based on doctrinal tasks.
+The player issues orders to their units like move, attack, defend.
 
-The player continues playing until they accomplish the mission or their force has been defeated or neutralized and can no longer operate. The entire game is "recorded" so the player can study the operation in greater detail.
+The game ends when one side accomplishes their mission or their force has been defeated or neutralized and can no longer operate. 
+
+The entire game is "recorded" so the player can study the operation in greater detail.
 
 ## Game Systems 
 The simulation model is an abstraction of all the warfighting functions and can be calibrated to produce believable results.
