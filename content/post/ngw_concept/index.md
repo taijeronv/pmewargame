@@ -36,7 +36,7 @@ Wargame
 ## Target audience
 - Students enrolled in a professional military education program like West Point or ROTC. 
 - Military instructors who want to provide a complete experiential learning experience. 
-- Military professionals who want to develop their tactical thinking.
+- Military professionals who want to exercise their tactical thinking.
 
 ## Unique Selling Points
 - Playable inside a web browser.
@@ -48,27 +48,19 @@ Wargame
 The player should feel as if they are commanding their units.
 
 ## Visual and Audio Style
-Talon is played on military topographic maps or something similar to google maps. Unit icons represent platoons, squads, or sections using NATO symbols or vehicle/equipment silhouettes. Battlefield sounds and animations provide player feedback.
+Played on a military topographic map or something similar to google maps. Unit icons represent platoons, squads, or sections using NATO symbols or vehicle/equipment silhouettes. Battlefield sounds and animations provide feedback and alerts to the player.
 
 ## Game World 
-The game world is represented by enemy units, terrain, and weather all of which have an impact on the operation. 
-
-## Monetization
-- Subscription via website.
-- Custom game setup on a LAN.
-  
-The game or subscription can be customized based customer needs.  For example if a more detailed combat model is required, or they want access to
-more advanced content. The LAN setup is meant for organizations that do not want to deal with the internet.
+The game world is represented by enemy, terrain, and weather. 
 
 ## Technology, and Scope (brief) PC or mobile?
 - Meant to be played inside a web browser.
-- Delivered over the internet or LAN, operating system does not matter
+- Delivered over the internet or LAN, operating system does not matter.
 - Javascript using the [Phaser game library](https://phaser.io/).
-- Frontend web technologies.
+- Frontend web technologies to create the website.
 
 ## Objectives and Progression
-The player begins by choosing a scenario. The scenario contains information regarding the operation such as the mission, friendly troops available, map,
-objectives, and intel reports. The scenario file contains data used by the game engine for various functions and calculations.
+The player begins by choosing a scenario. The scenario contains information regarding the operation such as the mission, friendly troops available, map, objectives, and intel reports. The scenario file contains data used by the game engine for various functions and calculations.
 
 The player plays the game by giving orders to their units like move, attack, defend. Orders are based on doctrinal tasks.
 
