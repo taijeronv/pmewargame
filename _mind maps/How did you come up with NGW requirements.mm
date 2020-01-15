@@ -19,7 +19,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1578892319641" ID="ID_819560221" MODIFIED="1578892409082" POSITION="left" TEXT="Functional Requirements">
+<node COLOR="#0033ff" CREATED="1578892319641" ID="ID_819560221" MODIFIED="1578895273074" POSITION="left" TEXT="Non-functional Requirements">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1578892359279" ID="ID_759164523" MODIFIED="1578892409084" TEXT="Easy to play">
@@ -65,6 +65,12 @@
 <node COLOR="#00b439" CREATED="1578892485498" ID="ID_1883138572" MODIFIED="1578892497547" TEXT="What makes NGW &quot;next generation&quot;?">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1578895287271" ID="ID_923121394" MODIFIED="1578895292785" TEXT="Playable over the internet">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1578895293997" ID="ID_1810686812" MODIFIED="1578895300481" TEXT="Easy to understand">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1578892539582" ID="ID_617165143" MODIFIED="1578892543882" POSITION="left" TEXT="Game requirements">
