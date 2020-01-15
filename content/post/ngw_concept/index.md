@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The NestGen Wargame"
-subtitle: "Core Concepts"
+title: "NGW Concept Document"
+subtitle: ""
 summary: ""
 authors: [TJ]
 tags: ["design", "concept"]
