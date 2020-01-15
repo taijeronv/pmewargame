@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Easy to play computer wargame that provides a dynamic operational environment to
+Easy to play computer wargame that provides an operational environment to
 practice tactical decision-making and problem-solving. 
 
 ## Genre(s)
@@ -44,8 +44,12 @@ Wargame
 - Operating system does not matter.
 - Designed specifically as a teaching tool.
 
-## Player Experience and Game POV
+## Player Experience
 The player should feel as if they are commanding their units.
+
+The player should also "command" at the appropriate level.  For example if it's a battalion operation they should be making battalion-level decisions.  Keep in mind that without "automated forces" this can be difficult to achieve.  My thought on this is to model two levels down, which means in a battalion level simulation the player will be moving platoons and in some cases sections.
+
+The goal is to keep the player from micro managing their units which is why automation is necessary.
 
 ## Visual and Audio Style
 Played on a military topographic map or something similar to google maps. Unit icons represent platoons, squads, or sections using NATO symbols or vehicle/equipment silhouettes. Battlefield sounds and animations provide feedback and alerts to the player.
@@ -73,7 +77,7 @@ The graphics engine is fairly basic and the animations can be easily handled by 
 
 A detailed and configurable AI is a critical part of the system. This enables content creators to develop realistic enemy behavior and provide a challenging operational environment for the player.
 
-Events are also important.  It allows the content creator to trigger specific decision-making events that require a response.  By using events we can create multiple situations in one scenario.  
+Events are also important.  It allows the content creator to trigger specific decision-making events that require some decision to be made.  By using events we can create multiple situations in one scenario.  
 
 ## Interactivity
 The user interface is simple and designed to be intuitive. Orders are given by right-clicking on the unit and selecting the appropriate order. Automated unit behavior can be configured so the player does not have to micro-manage their units. For example automatically engaging an enemy units under certain conditions or prioritizing what target to shoot first based on user-defined criteria.
