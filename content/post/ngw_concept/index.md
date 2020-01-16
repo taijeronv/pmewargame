@@ -36,43 +36,49 @@ Wargame
 ## Target audience
 - Students enrolled in a professional military education program like West Point or ROTC. 
 - Military instructors who want to provide a complete experiential learning experience. 
-- Military professionals who want to exercise their tactical thinking.
+- Military professionals who want to practice solving tactical problems.
 
 ## Unique Selling Points
+- Designed specifically as a teaching tool.
+  - Records the game allowing for a more detailed review.
+  - Lightweight modeling of most of the warfighting functions.
+  - Easy to use interface.
+  - Automated behaviors reducing the need to micromanage.
 - Playable inside a web browser.
 - Delivered over the internet or Local Area Network.
 - Operating system does not matter.
-- Designed specifically as a teaching tool.
+
+Recording the game allows the student review their decisions.  This is very important because it allows them to do a more detailed analysis as to why they made certain decisions.  This is where the real learning takes place.  
 
 ## Player Experience
 The player should feel as if they are commanding their units.
 
-The player should also "command" at the appropriate level.  For example if it's a battalion operation they should be making battalion-level decisions.  Keep in mind that without "automated forces" this can be difficult to achieve.  My thought on this is to model two levels down, which means in a battalion level simulation the player will be moving platoons and in some cases sections.
-
-The goal is to keep the player from micro managing their units which is why automation is necessary.
+The player should also "command" at the appropriate level.  For example if it's a battalion operation they should be making battalion-level decisions.  Keep in mind that without "automated forces" this can be difficult to achieve.  My thought on this is to model two levels down, which means in a battalion level simulation the player will be moving platoons and in some cases sections. 
 
 ## Visual and Audio Style
-Played on a military topographic map or something similar to google maps. Unit icons represent platoons, squads, or sections using NATO symbols or vehicle/equipment silhouettes. Battlefield sounds and animations provide feedback and alerts to the player.
+The map is simply a background image that is used as a reference by the player.  The "terrain file" is where the data goes that affects combat, movement, and spotting.
+
+The ideal situation is to use a scanned image of a military topographic map, but you can always create your own custom map.  For example this is a map I created for Follow Me.
+
+One of the options I plan to explore is the use of cloud based maps like Google Maps.  
 
 ## Game World 
 The game world is represented by enemy, terrain, and weather. 
 
 ## Technology, and Scope (brief) PC or mobile?
-<<<<<<< HEAD
-- Playable inside a web browser.
-- Delivered over the internet or LAN.
-- Operating system does not matter.
-=======
 - Meant to be played inside a web browser.
 - Delivered over the internet or LAN, operating system does not matter.
->>>>>>> fbfb760a593a3e7bea52ce5c4a80af03884a3f8d
 - Javascript using the [Phaser game library](https://phaser.io/).
 - Frontend web technologies to create the website.
 
 ## Objectives and Progression
-The player begins by choosing a scenario. The scenario contains information regarding the operation such as the mission, friendly troops available, map, objectives, and intel reports. The scenario file contains data used by the game engine for various functions and calculations.
+The player begins by choosing a scenario. The scenario file serves to purposes.  The first is to provide the user with information regarding the situation, mission, and objectives.  The second purpose is to load the appropriate map image, unit, and terrain data.
 
-The player issues orders to their units like move, attack, defend.
+The general course of play is pretty straightforward:
+1.  Plan the next turns moves and combat.
+2.  Enter orders for each unit that you want to perform an action.
+3.  Execute a turn.  At this point the "computer umpire" takes over and performs game functions like moving units, all forms of combat, and other administrative game functions.
+4.  Repeat steps 1-3.
 
 The game ends when one side accomplishes their mission or their force has been defeated or neutralized and can no longer operate. 
 
