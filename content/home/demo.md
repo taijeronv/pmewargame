@@ -49,4 +49,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Because learning how to think is important than learning what to think.
+Because learning how to think is more important than learning what to think.
