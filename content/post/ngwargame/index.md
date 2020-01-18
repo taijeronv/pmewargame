@@ -29,7 +29,7 @@ projects: []
 ---
 ## Game Design
 The following is a proposal for a computer wargame delivered over the internet, playable in a web browser.  The NextGen Wargame (NGW) is a game designed to be a tool for learning tactics.  It provides an operational environment where the enemy, terrain, and weather all have an effect.  The game can be played in 1-player or 2-player mode.  2-player mode includes an option to play against each other or cooperatively against the AI.  
-
+git
 In most military learning institutions, the emphasis is placed on planning.  Execution isn't ignored but is frequently missed because there is no time or resources to do it.  
 
 One of the tools used is the Tactical Decision Exercise or TDE.  The TDE can be a planning and execution exercise depending on learning outcomes and available time.  At West Point, it was mostly planning, and if there's time, maybe do one or two executions. 
@@ -71,7 +71,7 @@ The scenario ends when one side of the other accomplishes their mission or their
 NGW is played on a 2d military topographic map image (jpg or png format) or custom image.  The terrain is coded relative to the map, and the two are linked.  
 
 **Operations Environment**
-- Enemy combat units such as infantry, armor, and artillery.
+- Enemy combat units such as giinfantry, armor, and artillery.
 - The terrain is represented and affects cover and concealment, trafficability. 
 - Weather is modeled and may affect spotting range, air operations, and mobility.
 - 

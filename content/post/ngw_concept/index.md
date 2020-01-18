@@ -72,7 +72,7 @@ The game world is represented by enemy, terrain, and weather.
 - Frontend web technologies to create the website.
 
 ## Objectives and Progression
-The player begins by choosing a scenario. The scenario file serves to purposes.  The first is to provide the user with information regarding the situation, mission, and objectives.  The second purpose is to load the appropriate map image, unit, and terrain data.
+The player begins by choosing a scenario. The scenario file serves two purposes.  The first is to provide the user with information regarding the situation, mission, and objectives.  The second purpose is to load the appropriate map image, unit, and terrain data.
 
 The general course of play is pretty straightforward:
 1.  Plan the next turns moves and combat.
