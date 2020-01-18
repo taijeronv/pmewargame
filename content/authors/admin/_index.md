@@ -52,14 +52,14 @@ The NextGen Wargame is a computer game that provides the student with an operati
 - Specifically designed as an education tool, NOT an exercise driver.
 - It is NOT a first-person-shooter, nor is it a 3d virtual reality game.
 
-At [West Point](https://www.westpoint.edu/), one of the tools we used to teach tactics was the Tactical Decision Game (TDG), sometimes referred to as Tactical Decision Exercise (TDE).  For the most part, it was a planning exercise done on paper.  The instructor would give the cadets a situation and map, and the students would produce an OPORD, course of action (COA), and a graphics overlay for the map.
+The game offers a quick and easy way to execute a course of action.  It provides a dynamic and interactive environment that forces the student to make realistic decisons.  A lesson can be tailored to specific learning outcomes by using Events.   Events are used to force the player into a decision-making quandary.
 
-One of the problems with paper TDGs is the cadet doesn't get the opportunity to execute their plan.  
+
 
 Why? Not enough time. In a typical West Point class, you may have up to 16 students and 45 minutes for the lesson.  There's not enough time to execute one cadet's plan, let alone 16.  Execution is essential because this is where the student gets to interact with the operational environment, make decisions, and solve problems.
 
 NGW isn't meant to replace the TDG. It is intended to provide a quick and easy way to execute the student's plan.  The student gets the benefit of planning and execution, which is a more complete learning experience.
 
-<a href="post/ngw_concept">NGW Concept</a>
+<a href="post/ngwargame">NGW Proposal</a>
 
 ## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).

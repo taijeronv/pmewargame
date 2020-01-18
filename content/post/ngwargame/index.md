@@ -28,40 +28,46 @@ image:
 projects: []
 ---
 ## Game Design
-The following is a proposal for a computer wargame delivered over the internet and playable in a web browser.  The NextGen Wargame (NGW) is a game designed to be a tool for learning tactics.  It provides an operational environment where the enemy, terrain, and weather all have an effect.  
+The following is a proposal for a computer wargame playable over the internet inside a web browser.  The NextGen Wargame (NGW) is a game designed to be a tool for learning tactics.  It provides an operational environment where the enemy, terrain, and weather all have an effect and enables the player to practice making decisions in a tactical environment.
 
-In many military learning institutions the Tactical Decision Exercise or TDE is one of the main tools used to teach tactics.  The TDE is a is simple to setup and can be tailored to meet specific learning outcomes.  In places like West Point and ROTC the TDE has become more of a planning exercise with no opportunity to execute their course of action.  The problem is there is not enough time.
+In many military learning institutions the Tactical Decision Exercise or TDE is one of the main tools used to teach tactics.  The TDE is simple to setup and can be tailored to meet specific learning outcomes.  In places like West Point and ROTC the TDE has become more of a planning exercise with no execution component.  The problem with including an execution piece is time, there is just not enough of it.
 
 **TDE Workflow:**
-1.  The instructor gives the students a mission and map of operations area.
-2.  The students write an operations order (OPORD), course of action (COA), and draw the appropriate operational graphics on their map.
-3.  The instructor grades the assignment, in some cases, may execute one of the cadet's plans.
+1.  The instructor gives the students a mission and a map of the operations area.
+2.  The students write an operations order (OPORD), plan a course of action (COA), and draw the appropriate operational graphics on the map.
+3.  The instructor grades the assignment.
 
-A typical West Point class is around 16 students and lasts for 45 minutes.  To execute a mission manually, the instructor must assume the role as "umpire." The umpire performs game functions like resolving combat, movement, spotting, and other tasks, as you can see this takes time.  It's challenging to do this for one cadet, much less 16.  
+A typical West Point class is around 16 students and lasts for 45 minutes.  To execute a mission manually, the instructor must assume the role as "umpire." The umpire performs game functions like resolving combat, movement, spotting, and other tasks, as you can see this takes time.  It's challenging to do this for one cadet, let alone 16.  
 
-The NGW is meant to provide a quick and easy way to for a student to execute their plan.  All the student does is issues orders to their units and the program does the rest.
+The NGW is meant to provide a quick and easy way to for a student to execute their plan.  All the student does is issue orders to their units and the program does the rest.  When you add the execution piece the quality of the instruction goes up.  Cadets get the complete experience of planning and execution.
 
 **Computer Umpire:**
 - Sets up the scenario.
-- Knows all the rules and enforces them the same no matter who is playing.
+- Knows and enforces all the rules.
 - Quickly performs game functions.
 - Keeps track of everything that takes place in the game.
-- Records the game which enables the student to watch a replay of the operation and conduct a detailed analysis of their actions.
-- Allows the student to do the mission again and try different tactics or courses of action.
+- Records the game so the student can review it in more detail later.
+- Allows the student to do the same mission as many times as they like allowing them to try different tactics or courses of action.
 - Improves student's ability to visualize the operation by showing them how it unfolds.
 
 ### Overview
-The player assumes the role of a platoon, company, or battalion commander.  The goal is to accomplish the scenarios mission objectives. 
+The NextGen Wargame allows the player to assume the role of a platoon, company, or battalion commander.  
 
-Before the game begins, the player is given information regarding the task, friendly forces, enemy, terrain, and time available. The player creates a plan and attempts to execute it in the game.  
+The player must accomplish the scenarios mission objectives to win.
 
-The entire operation takes place on a 2d military topographic map image or a custom image.  
+Before the game begins, the player is given information regarding the task, friendly forces, enemy, terrain, and time available. The player creates a course of action and attempts to execute it in the game.  
 
-Player's use the mouse and hotkeys to issue orders to their units and perform game functions like checking line of sight or plotting artillery.  
+The entire operation takes place on a 2d image that represents a military topographic map.  The map is produced using a commercial program like Adobe Illustrator/Photoshop.  
 
-Players must decide how to organize their forces and weapon systems and what tasks to assign them.  They must also take into account the effects of the terrain and weather. In some scenarios, the player may be confronted with an "event(s)," which puts the player in a decision-making quandary.  
+Player's use the mouse and keyboard commands to issue orders to their units and perform game functions like checking line of sight or plotting artillery.  
 
-The scenario designer works closely with the instructor to create a scenario that meets the lessons learning outcomes.  The scenario designer also creates content such as the map, unit data, written products that support the scenario.  
+Players must decide how to organize their forces, employ weapon systems, and assign them tasks.  They must also take into account the effects of the terrain and weather. In some scenarios, the player may be confronted with an "event(s)," which puts then in a decision-making quandary.  Events are triggered by certain criteria like the location of a unit, or a unit's actions.  
+
+>For example if a unit occupies a hill top it may trigger enemy indirect fire.  
+
+Events are important because it forces the player to make a decision.  This is how the instructor is able to get to very specific learning objectives.
+
+The scenario designer works closely with the instructor to create a scenario that meets the lessons learning outcomes.  The scenario designer also creates content such as the map, unit data, scenario notes, and the instructors guide.  
 
 The scenario ends when one side or the other accomplishes their mission or their forces become too weak to continue.  At the end of each turn the computer umpire determines if either condition has been met.
 
@@ -72,9 +78,7 @@ The scenario ends when one side or the other accomplishes their mission or their
 - Easy to tailor decisions to learning outcomes.
 
 ### Gameplay
-The player is presented with a webpage of scenarios.  A brief summary is shown, which helps the player decide which scenario to play.  The player clicks on the desired scenario and is taken to a separate page where the game is loaded along with the relevant scenario data.
-
-Before the game begins, the player has an opportunity to plan and organize their forces.  The player can use the plan they created when they did their TDE, or they can create a new one.  Before the first turn begins, the player issues orders based on their planning.  Once they are satisfied, they press the "Go" button, and the turn executes.  
+The player is presented with a webpage with a list of  scenarios.  Each scenario has a brief summary giving the player an idea of what it is about. 
 
 1.  Before the first turn is executed, the player does some planning, issues orders, and re-organizes their forces.
 2.  Once they are satisfied, they press the "Go" button, and the turn executes.
@@ -82,9 +86,13 @@ Before the game begins, the player has an opportunity to plan and organize their
 4.  When the turn is complete, the player issues new orders to their units.
 5.  Repeat steps 1-4 until the umpire determines a winner.
 
-A "turn" consists of several phases.  Each phase has a pre-determined set of actions that can be performed, provided specific criteria are met.  For example, to conduct direct fire, the firing unit must first spot the enemy unit and have a clear line of sight, the target unit must be in the range of one of the firing units weapon systems.  If these criteria are met, then the direct fire takes place.
+A "turn" consists of several phases and represents a variable amount of actual time anywhere from 5-15 minutes.  Each phase has a pre-determined set of actions that can be performed, provided specific criteria are met.  
 
-The scenario is complete when the player manually ends it, or the umpire determines certain conditions have been met.  For example, the umpire may determine the player has met the mission objectives.  Success conditions are determined by the instructor and input by the scenario designer.  
+>For example, to conduct direct fire, the firing unit must first spot the enemy unit and have an unblocked line of sight, the target unit must be in  range of one of the firing units weapon systems.  If these criteria are met, then the direct fire takes place.
+
+The scenario is complete when the player manually ends it, or the umpire determines certain conditions have been met.  
+
+>For example, the umpire may determine the player has met the mission objectives.  Success conditions are determined by the instructor and input by the scenario designer.  
 
 ## Marketing
 
