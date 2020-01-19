@@ -57,23 +57,16 @@ In many Professional Military Education (PME) programs the Tactical Decision Exe
 In a typical West Point class, you may have up to 16 students and 45 minutes for a lesson.  There's not enough time to execute one cadet's plan, let alone 16.  
 
 ### Execution 
-The execution piece is arguably the most important part of the TDE because the student must make decisions based on their understanding of the situation, interact with the operational environment, and solve problems by applying a solution.  
+The execution piece is arguably the most important part of the TDE because the student must make decisions based on their understanding of the situation, interact with the operational environment, solve problems, and apply a solution.  
 
-It also gives the instructor a chance to identify gaps in their knowledge and it shows how well the cadet applied that knowledge.  
+It also helps the instructor identify gaps in the student's knowledge, in addition to how well the student applies that knowledge.  The instructor can then calibrate their thinking and further develop the students tactical IQ.
 
-### Learning 
-Simply playing NGW doesn't mean much, although reviewing the game "footage" afterwards means everything.  This is when the real learning takes place.
+Simply playing NGW doesn't mean much, but reviewing the game "footage" afterwards means everything.  This is when the real learning takes place.
 
-- The student can match their decisons with their understanding of the situation.  Context matters.
-- Did they identify the problem(s) and apply the right solution?
-- How could they have done better? What information would have been useful and how could they get it?
-- Was there gaps in their planning? Was it a resource or information gap?
-
-Keep in mind NGW is just a tool in and of itself it is uselss.  What makes it useful is the intructor.
-
-The student can determine if they "read" the situation correctly by linking the decisions they made to their understanding of the situation.
-
-applied the right solution based on the information they had at the time.
+- Identify key decisions and how they affected the outcome of the mission.
+- Link their decisions to their understanding of the situation at the time.
+- Determine what they could have done better during execution or planning.
+- Re-play the mission and apply what they learned.
 
 {{% alert note %}}
 NGW is designed to provide a quick and easy execution component that supplements the paper-based TDE.  It is NOT meant to replace it.
@@ -82,13 +75,11 @@ NGW is designed to provide a quick and easy execution component that supplements
 **A properly designed computer wargame offers:**  
 - A quick way to execute a course of action.  
 - A dynamic and interactive environment that forces the student to make realistic decisions.  
-- The instructor the ability to tailor a scenario to meet specific learning outcomes using "Events."
+- The ability to tailor a scenario to meet specific learning outcomes using "Events."
 - The ability to record everything that happens in the game and play it back.
 - A simple user interface and flat learning curve.
 - A more interesting way to learn.
   
-
-
 <a href="post/ngwargame">NGW Proposal</a>
 
 ## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
