@@ -80,6 +80,4 @@ NGW is designed to provide a quick and easy execution component that supplements
 - A simple user interface and flat learning curve.
 - A more interesting way to learn.
   
-<a href="post/ngwargame">NGW Proposal</a>
-
 ## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
