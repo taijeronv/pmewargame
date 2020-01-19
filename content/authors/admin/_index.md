@@ -45,20 +45,42 @@ user_groups:
 - Visitors
 
 ---
-The NextGen Wargame is a computer game that provides the student with an operational environment where the enemy, terrain, and weather have an effect.  It enables the student to practice making decisions in a tactical environment.
+The NextGen Wargame is a computer wargame that provides the student with an operational environment where the enemy, terrain, and weather have an effect.  It enables the student to practice making decisions in a tactical environment.
 
 - The right level of detail, easy to play and understand.
 - Playable in a web browser, the operating system does not matter.
 - Specifically designed as an education tool, NOT an exercise driver.
 - It is NOT a first-person-shooter, nor is it a 3d virtual reality game.
 
-The game offers a quick and easy way to execute a course of action.  It provides a dynamic and interactive environment that forces the student to make realistic decisons.  A lesson can be tailored to specific learning outcomes by using Events.   Events are used to force the player into a decision-making quandary.
+In many Professional Military Education (PME) programs the Tactical Decision Exercise or TDE is the main tool used to teach tactics.  Institutions like West Point and ROTC mainly use it as a planning exercise with little to no opportunity for a cadet to execute their plan.  It's not that they think planning is more important, the problem is lack of time.
 
+In a typical West Point class, you may have up to 16 students and 45 minutes for a lesson.  There's not enough time to execute one cadet's plan, let alone 16.  
 
+### Execution 
+The execution piece is arguably the most important part of the TDE because the student must make decisions based on their understanding of the situation, interact with the operational environment, and solve problems by applying a solution.  
 
-Why? Not enough time. In a typical West Point class, you may have up to 16 students and 45 minutes for the lesson.  There's not enough time to execute one cadet's plan, let alone 16.  Execution is essential because this is where the student gets to interact with the operational environment, make decisions, and solve problems.
+It also gives the instructor a chance to identify gaps in their knowledge and more importantly it shows how well the cadet applies that knowledge.  
 
-NGW isn't meant to replace the TDG. It is intended to provide a quick and easy way to execute the student's plan.  The student gets the benefit of planning and execution, which is a more complete learning experience.
+### Learning 
+Simply playing NGW doesn't mean much, but reviewing the game "footage" afterwards means everything.  This is when the real learning takes place.
+
+The student can determine if they "read" the situation correctly by linking the decisions they made to their understanding of the situation.
+
+applied the right solution based on the information they had at the time.
+
+{{% alert note %}}
+NGW is designed to provide a quick and easy execution component that supplements the paper-based TDE.  It is NOT meant to replace it.
+{{% /alert %}}
+
+**A properly designed computer wargame offers:**  
+- A quick way to execute a course of action.  
+- A dynamic and interactive environment that forces the student to make realistic decisions.  
+- The instructor the ability to tailor a scenario to meet specific learning outcomes using "Events."
+- The ability to record everything that happens in the game and play it back.
+- A simple user interface and flat learning curve.
+- A more interesting way to learn.
+  
+
 
 <a href="post/ngwargame">NGW Proposal</a>
 
