@@ -30,42 +30,44 @@ projects: []
 ## Game Design
 The following is a proposal for a computer wargame playable over the internet inside a web browser.  The NextGen Wargame (NGW) is a game designed to be a tool for learning tactics.  It provides an operational environment where the enemy, terrain, and weather all have an effect and enables the player to practice making decisions in a tactical environment.
 
-In many military learning institutions the Tactical Decision Exercise or TDE is one of the main tools used to teach tactics.  The TDE is simple to setup and can be tailored to meet specific learning outcomes.  In places like West Point and ROTC the TDE has become more of a planning exercise with no execution component.  The problem with including an execution piece is time, there is just not enough of it.
+In many military learning institutions the Tactical Decision Exercise or TDE is one of the main tools used to teach tactics.  The TDE is simple to setup and can be tailored to meet specific learning outcomes.  In places like West Point and ROTC the TDE has become more of a planning exercise with no execution component.  It is not that they think planning is more important, they simply do not have the time to do any execution.
 
 **TDE Workflow:**
 1.  The instructor gives the students a mission and a map of the operations area.
 2.  The students write an operations order (OPORD), plan a course of action (COA), and draw the appropriate operational graphics on the map.
 3.  The instructor grades the assignment.
 
-A typical West Point class is around 16 students and lasts for 45 minutes.  To execute a mission manually, the instructor must assume the role as "umpire." The umpire performs game functions like resolving combat, movement, spotting, and other tasks, as you can see this takes time.  It's challenging to do this for one cadet, let alone 16.  
+A typical West Point class is around 16 students and lasts for 45 minutes.  To execute a mission manually, the instructor must assume the role of "umpire." The umpire performs game functions like resolving combat, movement, spotting, and other tasks, as you can imagine this takes time.  It's challenging to do this for one cadet, let alone 16.
 
-The NGW is meant to provide a quick and easy way to for a student to execute their plan.  All the student does is issue orders to their units and the program does the rest.  When you add the execution piece the quality of the instruction goes up.  Cadets get the complete experience of planning and execution.
+The NGW is meant to provide a quick and easy way to for a student to execute their plan.  All the student does is issue orders to their units and the program does the rest.  
 
-**Computer Umpire:**
+{{% alert note %}}
+NGW is designed to provide a quick and easy execution component that supplements the paper-based TDE.  It is NOT meant to replace it.
+{{% /alert %}}
+
+**Computer Umpire**
+The "umpire" is the heart of the game and provides a number of benefits:
 - Sets up the scenario.
 - Knows and enforces all the rules.
 - Quickly performs game functions.
 - Keeps track of everything that takes place in the game.
 - Records the game so the student can review it in more detail later.
-- Allows the student to do the same mission as many times as they like allowing them to try different tactics or courses of action.
-- Improves student's ability to visualize the operation by showing them how it unfolds.
+- Provide an opporutnity for "quality practice by allowing the student to do the same mission as many times as they like so they can experiment with different tactics or courses of action.
 
 ### Overview
-The NextGen Wargame allows the player to assume the role of a platoon, company, or battalion commander.  
+The NextGen Wargame puts the player in the role of a platoon, company, or battalion commander.  
 
-The player must accomplish the scenarios mission objectives to win.
+To win, the player must accomplish the scenarios mission objectives.
 
 Before the game begins, the player is given information regarding the task, friendly forces, enemy, terrain, and time available. The player creates a course of action and attempts to execute it in the game.  
 
 The entire operation takes place on a 2d image that represents a military topographic map.  The map is produced using a commercial program like Adobe Illustrator/Photoshop.  
 
-Player's use the mouse and keyboard commands to issue orders to their units and perform game functions like checking line of sight or plotting artillery.  
+Player's issue orders to their units using the mouse and keyboard-commands.
 
-Players must decide how to organize their forces, employ weapon systems, and assign them tasks.  They must also take into account the effects of the terrain and weather. In some scenarios, the player may be confronted with an "event(s)," which puts then in a decision-making quandary.  Events are triggered by certain criteria like the location of a unit, or a unit's actions.  
+Players must decide how to organize their forces, employ weapon systems, and assign tasks to their units.  They must also take into account the effects of the terrain and weather. In some scenarios, the player may be confronted with an "event(s)," which puts then in a decision-making quandary.  Events are triggered by certain criteria like the location of a unit, or a unit's actions.  
 
->For example if a unit occupies a hill top it may trigger enemy indirect fire.  
-
-Events are important because it forces the player to make a decision.  This is how the instructor is able to get to very specific learning objectives.
+Events are important because it enables the instructor to add additional decision-making opportunities that may not take place naturally in the course of the game.
 
 The scenario designer works closely with the instructor to create a scenario that meets the lessons learning outcomes.  The scenario designer also creates content such as the map, unit data, scenario notes, and the instructors guide.  
 

@@ -59,10 +59,17 @@ In a typical West Point class, you may have up to 16 students and 45 minutes for
 ### Execution 
 The execution piece is arguably the most important part of the TDE because the student must make decisions based on their understanding of the situation, interact with the operational environment, and solve problems by applying a solution.  
 
-It also gives the instructor a chance to identify gaps in their knowledge and more importantly it shows how well the cadet applies that knowledge.  
+It also gives the instructor a chance to identify gaps in their knowledge and it shows how well the cadet applied that knowledge.  
 
 ### Learning 
-Simply playing NGW doesn't mean much, but reviewing the game "footage" afterwards means everything.  This is when the real learning takes place.
+Simply playing NGW doesn't mean much, although reviewing the game "footage" afterwards means everything.  This is when the real learning takes place.
+
+- The student can match their decisons with their understanding of the situation.  Context matters.
+- Did they identify the problem(s) and apply the right solution?
+- How could they have done better? What information would have been useful and how could they get it?
+- Was there gaps in their planning? Was it a resource or information gap?
+
+Keep in mind NGW is just a tool in and of itself it is uselss.  What makes it useful is the intructor.
 
 The student can determine if they "read" the situation correctly by linking the decisions they made to their understanding of the situation.
 
