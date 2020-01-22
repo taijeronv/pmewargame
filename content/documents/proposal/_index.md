@@ -20,8 +20,10 @@ menu:
     name: NextGen Wargame
     weight: 1
 ---
-The following is a proposal for a computer game playable over the internet inside a web browser.  The NextGen Wargame (NGW) is a game designed to be a tool for learning tactics.  Many games designed for the professional military market are either first-person-shooters, or 3d virtual multimedia extravaganzas.  
+The NextGen Wargame (NGW) is a computer game that can be played over the internet, inside a web browser, on Windows, MacOS, or Linux.  NGW is designed to model high-intensity conventional land-based operations and can further be used as a tool for teaching and learning tactics.  Players assume the role of platoon, company, or battalion commander's.  They make plans, issues orders, and try to accomplish the mission objectives.
 
-The truth is many of these games are unsuitable for the classroom environment because they are too complicated to play and require high-end hardware.
+Many games designed for the professional military market are either first-person-shooters, or 3d virtual multimedia extravaganzas.  
 
-NGW is designed to provide an operational environment where the enemy, terrain, and weather all have an effect and enables the player to practice making decisions in a tactical environment.  The game is delivered over the internet making the operating system immaterial.
+The truth is many of these games are unsuitable for the classroom environment because they are too complicated to play, require high-end hardware, or requre gaming skills to play well.  These are all distractors that inhibit learning rather than improve it. 
+
+NGW is designed to provide an operational environment where the enemy, terrain, and weather all have an effect and enables the player to practice making decisions in a tactical environment.

@@ -3,7 +3,7 @@ title: Introduction
 linktitle: Introduction
 type: docs
 date: "2020-01-21T00:00:00+01:00"
-draft: true
+draft: false
 menu:
   example:
     parent: 
@@ -12,8 +12,6 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-The following is a proposal for a computer wargame playable over the internet inside a web browser.  The NextGen Wargame (NGW) is a game designed to be a tool for learning tactics.  It provides an operational environment where the enemy, terrain, and weather all have an effect and enables the player to practice making decisions in a tactical environment.
-
 In many military learning institutions, the Tactical Decision Exercise or TDE is one of the main tools used to teach tactics.  The TDE is simple to set up and can be tailored to meet specific learning outcomes.  In places like West Point and ROTC, the TDE has become more of a planning exercise because there is not enough time to include the execution piece.  
 
 **TDE Workflow:**

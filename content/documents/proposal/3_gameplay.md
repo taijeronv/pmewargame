@@ -13,17 +13,28 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4
 ---
-The player begins the game by selecting a scenario.  Scenarios are presented on a webpage with a brief summary that gives provides the player information to help them decide if they want to play a particular scenario.
+The player begins the game by selecting a scenario.  Scenarios are presented on a webpage with a brief summary that provides information about that scenario to help the player decide if they want to play it.
 
-1.  The player decides on a scenario to play and clicks the link.  Another page opens with an instance of the game and more detailed information regarding the situation.
-2.  The player does some planning, issues orders, and organizes their forces.  In some scenarios, they may be allowed to reposition their units.
-3.  Once they are satisfied, they press the "Go" button, and the turn executes.
-4.  The computer umpire or "umpire" performs game tasks, makes calculations, and executes the turn.
-5.  The player is notified that the turn is complete and presses the play button to see what happened.  They can spend as much time as they like reviewing the results of the turn.
-6.  The player issues new orders to their units, and presses "Go" to execute another turn.
-7.  Repeat steps 1-4 until the umpire determines a winner.
+Once the player decides on a scenario they click on the link and the scenario data is loaded into the game.  Scenario information includes unit data, map, terrain, briefings, and reports.  The enemy and friendly units are placed in their initial start positions although the player cannot see the locations of the enemy forces.
 
-A "turn" consists of two or three phases and represents a variable amount of actual time anywhere from 5-15 minutes.  Each phase has a pre-determined set of actions that can be performed, provided specific criteria are met.  
+In some scenarios the player may be allowed to place their units in different locations but with certain restrictions.
+
+The player also has the option of doing some planning.  The may want to task organize their units based on what they want them to do. 
+
+> The player decides they will task organize in the following manner.  Machinegun team 1 will be attached to 1st Platoon.  The forward observer will move with 2nd Platoon.  The bomb dog will with 3rd Platoon.
+
+The player may also issue orders to their units although they are not obligated too.
+> - 1st Platoon move to hill 706 and establish a support by fire position.  
+> - 2nd Platoon move to the woods to the north of that farmhouse.  
+> - 3rd Platoon stay in your current position but be prepared to move on my orders.  
+
+Orders are issues by using the mouse or keyboard commands.
+
+When the player is satisfied with their plan they may begin the turn by pressing the "Go" or "Play" button.
+
+The umpire calculates everything that takes place like movement, combat, and spotting.  When the calculations are complete the player is notified at which point they can view the turn in a VCR like replay.  They can view the replay as many times as they wish before beginning the next planning and execution.
+
+Now that a turn has been completed the player can make adjustments to their plans, issue new orders, or let the units complete their currently assigned orders.
 
 The scenario is complete when the player chooses to surrender, or the computer umpire determines certain conditions have been met.  
 
