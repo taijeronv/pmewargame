@@ -13,3 +13,15 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 7
 ---
+
+### Proof of principle development
+- Project manager
+- Javascript programmer that also serves as a Frontend Developer
+- Three-six months
+
+### Full production
+- Project Manager
+- 2 x JS programmers
+- Frontend Developer
+- Content Creator
+- Six to twelve months

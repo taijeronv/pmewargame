@@ -1,25 +1,36 @@
 ---
 title: Introduction
 linktitle: Introduction
+toc: true
 type: docs
 date: "2020-01-21T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: 
+    parent:
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-In many military learning institutions, the Tactical Decision Exercise or TDE is one of the main tools used to teach tactics.  The TDE is simple to set up and can be tailored to meet specific learning outcomes.  In places like West Point and ROTC, the TDE has become more of a planning exercise because there is not enough time to include the execution piece.  
+In many military learning institutions, the Tactical Decision Exercise or TDE is one of the main tools used to teach tactics.  The TDE is simple to set up and can be tailored to meet specific learning outcomes.  In places like West Point and ROTC, the TDE has become more of a planning exercise because there is not enough time to include the execution piece.
 
-**TDE Workflow:**
+### TDE Workflow:
 1.  The instructor gives the students a mission and a map of the operations area.
 2.  The students write an operations order (OPORD), plan a course of action (COA), and draw the appropriate operational graphics on the map.
 3.  The instructor grades the assignment.
 
-A typical West Point class is around 16 students and lasts for 45 minutes.  To execute a mission manually, the instructor assumes the role of "umpire." The umpire performs game functions like resolving combat, movement, spotting, and other tasks. As you can see, this takes time.  It's challenging to do this for one cadet, let alone 16.  
+A typical West Point class is 16 students and lasts for 45 minutes.  To execute a mission manually, the instructor must assume the role of "umpire." The umpire performs game functions like resolving combat, movement, spotting, and other tasks. As you can imagine, this takes time.  It's challenging to do this for one cadet, let alone 16.
+
+### Execution is important
+The execution piece is arguably the most important part of the learning process:
+- Opportunities to make decisions in an interactive operational environment.
+- Solve problems pertaining to the enemy, terrain, and weather.
+- Ability to practice the same scenario or different scenarios, repetition.
+- Focus on specific learning goals (deliberate practice).
+- Make decisions at the appropriate level e.g. platoon, company.
+- Experiential learning.
+
 
 The NGW is meant to provide a quick and easy way for a student to execute their plan.  All the student does is issue orders to their units, and the program does the rest.
 
