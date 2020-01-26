@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Game Proposal
-summary: Detailed game proposal.
+summary: The NextGen Wargame is a computer game that provides an operational environment to practice tactical decision-making.
 weight: 1
 
 # Page metadata.
@@ -20,12 +20,16 @@ menu:
     name: NextGen Wargame
     weight: 1
 ---
-The NextGen Wargame (NGW) is a computer game that can be played over the internet, inside a web browser, on Windows, MacOS, or Linux.  NGW is designed to model high-intensity conventional land-based operations and has additional features that make it the perfect tool for teaching and learning tactics.  Players assume the role of platoon, company, or battalion commander's.  They make plans, issues orders, and try to accomplish the mission objectives.
+The NextGen Wargame (NGW) is a computer game that can be played over the internet, inside a web browser, on Windows, MacOS, or Linux. NGW is designed to model high-intensity conventional land-based operations and has additional features that make it the perfect tool for teaching and learning tactics. 
 
-Many games designed for the professional military market are either first-person-shooters, or 3d virtual multimedia extravaganzas.
+- Players assume the role of platoon, company, or battalion commanders. 
+- They make plans, issue orders, and try to accomplish the mission objectives.
 
-The truth is many of these games are unsuitable for the classroom environment because they are too complicated to play, require high-end hardware, or requre special gaming skills to play.  These are distractors that inhibit learning rather than improve it.
+Many games designed for the professional military market are either first-person-shooters or 3d virtual multimedia extravaganzas.
 
-Simulations such as JCATS or WARSIM are great exercise drivers but could never work in a classroom environment.  They are over engineered and learning to use operate the sim takes more than an hour to learn (closer to a week).
+The truth is many of these games are unsuitable for the classroom environment.   They are complicated to play, require high-end hardware, or special gaming skills to play.
 
-NGW is designed to provide an operational environment where the enemy, terrain, and weather all have an effect.  This is the prefect environment to practice making tactical decisions.
+Simulations such as JCATS or WARSIM are great exercise drivers but could never work in a classroom environment. They are over-engineered, and learning to operate the sim takes more than an hour to learn (closer to a week).
+
+NGW is designed to provide an operational environment where the enemy, terrain, and weather all have an effect. This is the perfect environment to practice making tactical decisions.
+

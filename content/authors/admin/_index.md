@@ -45,38 +45,26 @@ user_groups:
 - Visitors
 
 ---
-The NextGen Wargame is a computer wargame that provides the student with an operational environment where the enemy, terrain, and weather have an effect.  It enables the student to practice making decisions in a tactical environment.
+The NextGen Wargame is a computer wargame that provides the student with an operational environment where the enemy, terrain, and weather have an effect. It enables the student to practice making decisions in a tactical environment.
 
 - The right level of detail, easy to play and understand.
 - Playable in a web browser, the operating system does not matter.
 - Specifically designed as an education tool, NOT an exercise driver.
 - It is NOT a first-person-shooter, nor is it a 3d virtual reality game.
 
-In many Professional Military Education (PME) programs, the Tactical Decision Exercise or TDE is the primary tool used to teach tactics.  Institutions like West Point and ROTC mainly use it as a planning exercise with little to no opportunity for a cadet to execute their plan.  It's not that they think planning is more important, the problem is lack of time.
+In many Professional Military Education (PME) programs, the Tactical Decision Exercise or TDE is the primary tool used to teach tactics. Institutions like West Point and ROTC mainly use it as a planning exercise with little to no opportunity for a cadet to execute their plan. It's not that they think planning is more important, the problem is lack of time.
 
-In a typical West Point class, you may have up to 16 students and 45 minutes for a lesson.  There's not enough time to execute one cadet's plan, let alone 16.
+In a typical West Point class, you may have up to 16 students and 45 minutes for a lesson. There's not enough time to execute one cadet's plan, let alone 16.
 
 ### Execution
-The execution piece is the most important part of the TDE.  Why? Because this is where the student must make decisions based on their understanding of the situation, interact with the operational environment, solve problems, and apply a solution.
+The execution piece is the most important part of the TDE. Why? Because this is when the student makes decisions based on their understanding of the situation, interact with the operational environment, solve problems, and apply a solution.
 
-It also allows the instructor to assess the student's ability to apply what they've been taught or identify gaps in the student's knowledge.  The instructor can then calibrate their thought process further developing the student's tactical IQ.
+It also allows the instructor to assess the student's ability to apply what they've been taught or identify gaps in the student's knowledge. The instructor can then calibrate their thought process, improving their ability to think.
 
-Just playing NGW doesn't mean much, in all likelihood the student doesn't learn anyhting while playing.  The real learning takes place when the student can review what they did during the game.
-
-- Identify critical decisions and their effect.
-- Link decisions to their understanding of the situation at the time.
-- Determine what they could have done better during execution or planning.
-- Re-play the mission and apply what they learned.
+The student doesn't learn anything by only playing the game. The real learning takes place when the student can review what they did during the game. An instructor is there to facilitate learning. You see, it's the instructor that does the teaching, not the game.
 
 {{% alert note %}}
-NGW  is NOT meant to replace the paper-based TDE. NGW  is meant to provide a quick and easy execution component that completes the paper-based TDE.
+NGW is NOT meant to replace the paper-based TDE. NGW is meant to provide a quick and easy execution component in an interactive operational environment.
 {{% /alert %}}
-
-### A properly designed computer wargame offers:
-- A quick way to execute a course of action.
-- A dynamic and interactive environment that forces the student to make realistic decisions.
-- The ability to tailor a scenario to meet specific learning outcomes using "Events."
-- The ability to record everything that happens in the game and play it back.
-- A simple user interface and flat learning curve.
 
 ## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
