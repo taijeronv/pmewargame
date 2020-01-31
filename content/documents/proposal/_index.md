@@ -25,9 +25,12 @@ The NextGen Wargame (NGW) is a computer game that can be played over the interne
 - Players assume the role of platoon, company, or battalion commanders. 
 - They make plans, issue orders, and try to accomplish the mission objectives.
 
-Many games designed for the professional military market are either first-person-shooters or 3d virtual multimedia extravaganzas.
+Many games designed for the professional military market are either first-person-shooters, or 3d virtual simulations.  There are currently no games that meet the needs of a typical classroom environment.  
 
-The truth is many of these games are unsuitable for the classroom environment.   They are complicated to play, require high-end hardware, or special gaming skills to play.
+Needs:
+- Easy to play.
+- Playable in 45 minutes or less.
+- Must accomodate every student.
 
 Simulations such as JCATS or WARSIM are great exercise drivers but could never work in a classroom environment. They are over-engineered, and learning to operate the sim takes more than an hour to learn (closer to a week).
 
