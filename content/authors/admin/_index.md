@@ -28,7 +28,7 @@ superuser: true
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vincent.taijeron@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:nextgenwargame@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -36,7 +36,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "taijeronv@gmail.com"
+email: "nextgenwargame@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,4 +67,4 @@ The student doesn't learn anything by only playing the game. The real learning t
 NGW is NOT meant to replace the paper-based TDE. NGW is meant to provide a quick and easy execution component in an interactive operational environment.
 {{% /alert %}}
 
-## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
+## If you're interested in developing a useful game for the PME market please [contact me](mailto:nextgenwargamegmail.com).
