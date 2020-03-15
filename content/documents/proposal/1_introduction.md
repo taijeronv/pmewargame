@@ -31,7 +31,7 @@ The execution piece is arguably the most important part of the learning process:
 
 The NGW is meant to provide a quick and easy way for a student to execute their plan. All the student does is issue orders to their units, and the program does the rest.
 
-In a situation where you are limited on time, it makes to use a computer because the computer quickly handles all the tasks associated with executing a course of action.
+A computer game manages all the time consuming tasks making it the perfect tool when time is limited.
 
 **Computer Umpire:**
 - Sets up the scenario.
